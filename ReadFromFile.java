@@ -1,14 +1,10 @@
 package HW9;
-
+ 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Created by KOS on 24.04.2018.
- */
 
 public class ReadFromFile {
     private List<Integer> arr = new ArrayList<>();
@@ -76,4 +72,3 @@ public class ReadFromFile {
         return maxP;
     }
 }
-
