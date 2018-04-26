@@ -8,7 +8,7 @@ import java.util.ArrayDeque;
  */
 public class drinkCola {
 
-    ArrayDeque<String> queue=new ArrayDeque<String>();
+    Deque<String> queue=new ArrayDeque<String>();
 
     public drinkCola() {
     }
